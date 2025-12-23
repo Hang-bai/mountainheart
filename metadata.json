@@ -1,0 +1,7 @@
+{
+  "name": "MountainHeart - 登峰造极的心",
+  "description": "一个专门为登山爱好者设计的照片拼图应用，可以将你的攀登足迹自动排列成爱心形状，并利用 AI 为你的征程生成动人的诗句。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
